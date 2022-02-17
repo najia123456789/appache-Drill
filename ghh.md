@@ -88,11 +88,11 @@ it is therefore supported by all operating systems (Windows, Mac, Mobile OS, etc
 
 
  ## References
-https://drill.apache.org/
-https://drill.apache.org/docs/
-https://fr.wikipedia.org/wiki/Apache_Drill
-https://docs.incorta.com/cloud/references-connectors-apache-drill/#create-a-schema-with-the-schema-wizard
-https://www.g2.com/products/apache-drill/reviews
+- https://drill.apache.org/
+- https://drill.apache.org/docs/
+- https://fr.wikipedia.org/wiki/Apache_Drill
+- https://docs.incorta.com/cloud/references-connectors-apache-drill/#create-a-schema-with-the-schema-wizard
+- https://www.g2.com/products/apache-drill/reviews
 
 
 
